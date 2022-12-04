@@ -31,6 +31,4 @@ public class Head {
     public void setColor(Color color) { this.color = color; }
 
     public void setTuners(Tuners tuners) { this.tuners = tuners; }
-
-
 }
