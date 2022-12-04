@@ -36,3 +36,4 @@ public class Body {
 
     public void setColor(Color color) { this.color = color; }
 }
+
