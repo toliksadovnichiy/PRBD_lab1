@@ -31,4 +31,3 @@ public class Neck {
 
     public void setFretsNumber(int fretsNumber) { this.fretsNumber = fretsNumber; }
 }
-
