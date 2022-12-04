@@ -36,6 +36,4 @@ public class Tuners {
     public void setMaterial(Material material) {
         this.material = material;
     }
-
-
 }
